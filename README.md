@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Mahdi Ul Bari</h1>
+<p align="center">
+  <strong>Researcher | Physiotherapist | R Programmer</strong>
+</p>
 
-<!--
-**mahdi-ul-bari/mahdi-ul-bari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<p align="justified">
+  <strong>Currently appointed at <em>Musculoskeletal Unit</em>, Department of Physiotherapy, CRP-Savar, Dhaka-1343, Bangladesh.</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Alongside my clinical responsibilities, I am actively engaged as a **researcher**, focusing on innovative approaches and discoveries in **rehabilitation and movement science**.
+
+My research interests include **neurology** and **musculoskeletal conditions**. I’m passionate about **bridging healthcare and technology** through **graphic design**, **programming**, and developing **academic tools** that enhance both **rehabilitation** and **education**.
