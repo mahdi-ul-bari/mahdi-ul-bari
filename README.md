@@ -1,4 +1,9 @@
-<h1 align="center">Mahdi Ul Bari</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=24292E&center=true&vCenter=true&width=500&lines=Mahdi+Ul+Bari;Researcher;Physiotherapist;R+Programmer" alt="Typing SVG" />
+  </a>
+</h1>
+
 <p align="center">
   <strong>Researcher | Physiotherapist | R Programmer</strong>
 </p>
