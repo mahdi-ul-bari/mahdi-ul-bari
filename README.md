@@ -17,6 +17,6 @@ Alongside my clinical responsibilities, I am actively engaged as a **researcher*
 My research interests include **neurology** and **musculoskeletal conditions**. I’m passionate about **bridging healthcare and technology** through **graphic design**, **programming**, and developing **academic tools** that would enhance both **rehabilitation** and **education**.
 <h3 align="center">
   <font color="#007ACC">
-    <a href="https://mahdi-ul-bari.github.io"> My Portfolio</a>.
+    <a href="https://mahdi-ul-bari.github.io"> My Portfolio</a>
   </font>
 </h3>
