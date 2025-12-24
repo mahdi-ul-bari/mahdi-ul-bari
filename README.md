@@ -5,10 +5,6 @@
   </a>
 </h1>
 
-<p align="center">
-  <strong>Clinical Researcher | Movement Science Enthusiast</strong>
-</p>
-
 ---
 
 <p align="justified">
