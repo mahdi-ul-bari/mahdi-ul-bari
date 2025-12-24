@@ -1,13 +1,11 @@
 <h1 align="center">
-  <span style="color: white; font-family: 'Merriweather', serif;">Mahdi Ul Bari</span><br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=30&pause=1000&color=007ACC&center=true&vCenter=true&width=500&lines=Researcher;Physiotherapist;R+Programmer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&weight=700&size=45&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=Mahdi+Ul+Bari" alt="Name" />
+    <br>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=30&pause=1000&color=007ACC&center=true&vCenter=true&width=500&lines=Researcher;Physiotherapist;R+Programmer" alt="Interests" />
   </a>
 </h1>
 
-<p align="center">
-  <strong>Clinical Researcher | Movement Science Enthusiast</strong>
-</p>
 
 ---
 
