@@ -4,10 +4,6 @@
   </a>
 </h1>
 
-<p align="center">
-  <strong>Researcher | Physiotherapist | R Programmer</strong>
-</p>
-
 ---
 
 <p align="justified">
