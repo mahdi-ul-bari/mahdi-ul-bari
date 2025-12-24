@@ -5,8 +5,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=30&pause=1000&color=007ACC&center=true&vCenter=true&width=500&lines=Researcher;Physiotherapist;R+Programmer" alt="Interests" />
   </a>
 </h1>
-
-
 ---
 
 <p align="justified">
