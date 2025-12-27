@@ -28,7 +28,7 @@
       <h3><font color="#007ACC">Skill Levels</font></h3>
     </td>
   </tr>
-  
+ <br> 
   <tr align="center" style="border: none;">
     <td align="center" style="width: 70%; border: none; padding: 10px; border-right: 1px solid #333;">
       <p>Statistical Language: R &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; █ █ █ █ █ █ █ █ ░ ░</p>
