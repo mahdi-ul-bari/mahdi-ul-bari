@@ -21,3 +21,23 @@
     <a href="https://mahdi-ul-bari.github.io"> My Portfolio</a>
   </font>
 </h3>
+<table style="width: 100%; border-collapse: collapse; border: none; font-family: 'Merriweather', Georgia, serif;">
+  <tr style="border: none;">
+    <td colspan="2" align="center" style="border: none; padding-bottom: 20px;">
+      <h3><font color="#007ACC">Skill Levels</font></h3>
+    </td>
+  </tr>
+  
+  <tr style="border: none;">
+    <td style="width: 50%; border: none; padding: 10px; border-right: 1px solid #333;">
+      <p>Statistical Language: R &nbsp;&nbsp;&nbsp;&nbsp; █ █ █ █ █ █ █ █ ░ ░</p>
+      <p>Statistical Software: SPSS &nbsp;&nbsp; █ █ █ █ █ █ █ █ ░ ░</p>
+      <p>Microsoft Excel &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; █ █ █ █ █ █ █ ░ ░ ░</p>
+    </td>
+    <td style="width: 50%; border: none; padding: 10px;">
+      <p>Microsoft Word &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; █ █ █ █ █ █ █ █ █ █</p>
+      <p>PowerPoint &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; █ █ █ █ █ █ █ █ █ ░</p>
+      <p>Adobe Illustrator &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; █ █ █ █ █ █ ░ ░ ░ ░</p>
+    </td>
+  </tr>
+</table>
