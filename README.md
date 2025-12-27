@@ -16,23 +16,23 @@
   </tr>
 </table>
 <div align="center">
-<table style="width: 100%; border-collapse: collapse; border: none; font-family: Merriweather, serif;">
-  <tr style="border: none;">
-    <td colspan="2" align="center" style="border: none; padding-bottom: 5px;">
-      <h3><font color="#007ACC">Skill Levels</font></h3>
-    </td>
-  </tr>
-  <tr align="center" style="border: none;">
-    <td align="center" style="width: 70%; border: none; padding: 10px; border-right: 1px solid #333;">
-      <p>Statistical Language: R &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; █ █ █ █ █ █ █ █ ░ ░</p>
-      <p>Statistical Software: SPSS &nbsp;&nbsp; █ █ █ █ █ █ █ █ ░ ░</p>
-      <p>Microsoft Excel &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; █ █ █ █ █ █ █ ░ ░ ░</p>
-    </td>
-    <td style="width: 50%; border: none; padding: 10px;">
-      <p>Microsoft Word &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; █ █ █ █ █ █ █ █ █ █</p>
-      <p>PowerPoint &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; █ █ █ █ █ █ █ █ █ ░</p>
-      <p>Adobe Illustrator &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; █ █ █ █ █ █ ░ ░ ░ ░</p>
-    </td>
-  </tr>
-</table>
+  <table style="border-collapse: collapse; border: none; font-family: 'Merriweather', serif; width: 100%; max-width: 1000px;">
+    <tr style="border: none;">
+      <td colspan="2" align="center" style="border: none; padding-bottom: 10px;">
+        <h3><font color="#007ACC" face="Merriweather, Georgia, serif">Skill Levels</font></h3>
+      </td>
+    </tr>
+    <tr style="border: none;">
+      <td align="center" style="width: 50%; border: none; padding: 10px; border-right: 1px solid #333; font-family: 'Merriweather', Georgia, serif;">
+        <p>Statistical Language: R &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; █ █ █ █ █ █ █ █ ░ ░</p>
+        <p>Statistical Software: SPSS &nbsp;&nbsp; █ █ █ █ █ █ █ █ ░ ░</p>
+        <p>Microsoft Excel &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; █ █ █ █ █ █ █ ░ ░ ░</p>
+      </td>
+      <td align="center" style="width: 50%; border: none; padding: 10px; font-family: 'Merriweather', Georgia, serif;">
+        <p>Microsoft Word &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; █ █ █ █ █ █ █ █ █ █</p>
+        <p>PowerPoint &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; █ █ █ █ █ █ █ █ █ ░</p>
+        <p>Adobe Illustrator &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; █ █ █ █ █ █ ░ ░ ░ ░</p>
+      </td>
+    </tr>
+  </table>
 </div>
