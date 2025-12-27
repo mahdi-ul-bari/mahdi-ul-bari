@@ -15,13 +15,11 @@
     </td>
   </tr>
 </table>
-<br>
 <h3 align="center">
   <font color="B2BCAA">
     <a href="https://mahdi-ul-bari.github.io"> My Portfolio</a>
   </font>
 </h3>
-<br>
 <div align="center">
 <table style="width: 100%; border-collapse: collapse; border: none; font-family: 'Merriweather', Georgia, serif;">
   <tr style="border: none;">
