@@ -21,6 +21,7 @@
     <a href="https://mahdi-ul-bari.github.io"> My Portfolio</a>
   </font>
 </h3>
+<div align="center">
 <table style="width: 100%; border-collapse: collapse; border: none; font-family: 'Merriweather', Georgia, serif;">
   <tr style="border: none;">
     <td colspan="2" align="center" style="border: none; padding-bottom: 20px;">
@@ -41,3 +42,4 @@
     </td>
   </tr>
 </table>
+</div>
