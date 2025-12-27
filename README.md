@@ -6,7 +6,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=45&pause=200&color=007ACC&center=true&vCenter=true&width=500&lines=Researcher;Physiotherapist;R+Programmer;GFX+Enthusiast" alt="Interests" />
   </a>
 </p>
-<br>
 <table align="center">
   <tr>
     <td align="justify" style="max-width: 800px; padding: 20px; border: none;">
