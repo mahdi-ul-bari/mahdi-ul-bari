@@ -21,6 +21,7 @@
     <a href="https://mahdi-ul-bari.github.io"> My Portfolio</a>
   </font>
 </h3>
+<br>
 <div align="center">
 <table style="width: 100%; border-collapse: collapse; border: none; font-family: 'Merriweather', Georgia, serif;">
   <tr style="border: none;">
@@ -28,7 +29,6 @@
       <h3><font color="#007ACC">Skill Levels</font></h3>
     </td>
   </tr>
- <br> 
   <tr align="center" style="border: none;">
     <td align="center" style="width: 70%; border: none; padding: 10px; border-right: 1px solid #333;">
       <p>Statistical Language: R &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; █ █ █ █ █ █ █ █ ░ ░</p>
