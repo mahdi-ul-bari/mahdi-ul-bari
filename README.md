@@ -28,7 +28,7 @@
     </td>
   </tr>
   
-  <tr style="border: none;">
+  <tr align="center" style="border: none;">
     <td align="center" style="width: 70%; border: none; padding: 10px; border-right: 1px solid #333;">
       <p>Statistical Language: R &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; █ █ █ █ █ █ █ █ ░ ░</p>
       <p>Statistical Software: SPSS &nbsp;&nbsp; █ █ █ █ █ █ █ █ ░ ░</p>
