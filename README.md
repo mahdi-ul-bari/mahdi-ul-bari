@@ -6,8 +6,6 @@
   </a>
 </h1>
 
----
-
 <p align="justified">
   <strong>Currently appointed at <em>Musculoskeletal Unit</em>, Department of Physiotherapy, CRP-Savar, Dhaka-1343, Bangladesh.</strong>
 </p>
