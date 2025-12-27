@@ -16,7 +16,7 @@
 </table>
 
 <h3 align="center">
-  <font color="#007ACC">
+  <font color="B2BCAA">
     <a href="https://mahdi-ul-bari.github.io"> My Portfolio</a>
   </font>
 </h3>
