@@ -16,7 +16,7 @@
   </tr>
 </table>
 <div align="center">
-<table style="width: 100%; border-collapse: collapse; border: none; font-family: 'Merriweather', Georgia, serif;">
+<table style="width: 100%; border-collapse: collapse; border: none; font-family: Merriweather, serif;">
   <tr style="border: none;">
     <td colspan="2" align="center" style="border: none; padding-bottom: 5px;">
       <h3><font color="#007ACC">Skill Levels</font></h3>
