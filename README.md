@@ -28,15 +28,15 @@
       </td>
     </tr>
     <tr style="border: none;">
-      <td align="center" style="width: 50%; border: none; padding: 10px; border-right: 1px solid #333; font-family: 'Merriweather', Georgia, serif;">
-        <p>Statistical Language: R &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; █ █ █ █ █ █ █ █ ░ ░</p>
+      <td align="center" style="width: 50%; border: none; padding: 5px; border-right: 0.5px solid #333; font-family: 'Merriweather', Georgia, serif;">
+        <p>Statistical Language: R &nbsp;&nbsp;&nbsp; █ █ █ █ █ █ █ █ ░ ░</p>
         <p>Statistical Software: SPSS &nbsp; █ █ █ █ █ █ █ █ ░ ░</p>
-        <p>Microsoft Excel &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; █ █ █ █ █ █ █ ░ ░ ░</p>
+        <p>Microsoft Excel &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; █ █ █ █ █ █ █ ░ ░ ░</p>
       </td>
-      <td align="center" style="width: 50%; border: none; padding: 10px; font-family: 'Merriweather', Georgia, serif;">
-        <p>Microsoft Word &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; █ █ █ █ █ █ █ █ █ █</p>
-        <p>PowerPoint &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; █ █ █ █ █ █ █ █ █ ░</p>
-        <p>Adobe Illustrator &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; █ █ █ █ █ █ ░ ░ ░ ░</p>
+      <td align="center" style="width: 50%; border: none; padding: 5px; font-family: 'Merriweather', Georgia, serif;">
+        <p>Microsoft Word &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; █ █ █ █ █ █ █ █ █ █</p>
+        <p>PowerPoint &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; █ █ █ █ █ █ █ █ █ ░</p>
+        <p>Adobe Illustrator &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; █ █ █ █ █ █ ░ ░ ░ ░</p>
       </td>
     </tr>
   </table>
