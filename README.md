@@ -42,12 +42,13 @@
   </table>
 </div>
 <table align="center" style="border:none; border-collapse:collapse;">
-  <tr>
-    <td style="border:none; padding:4px;">
-      <img src="book_reading.gif" alt="Book Reading" width="70">
+  <tr style="border:none;">
+    <td style="border:none; padding:2px;">
+      <img src="book_reading.gif" alt="Book Reading" width="100">
     </td>
-    <td style="border:none; padding:4px; vertical-align:middle;">
+    <td style="border:none; padding-left:4px; vertical-align:middle;">
       <strong>Fond of Books and Coffee ☕📚</strong>
     </td>
   </tr>
 </table>
+
