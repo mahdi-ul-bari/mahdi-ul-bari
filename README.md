@@ -44,7 +44,7 @@
 <table align="center" style="border:none; border-collapse:collapse;">
   <tr style="border:none;">
     <td style="border:none; padding:2px;">
-      <img src="book_reading.gif" alt="Book Reading" width="450">
+      <img src="book_reading.gif" alt="Book Reading" width="420">
     </td>
     <td style="border:none; padding-left:4px; vertical-align:middle;">
       <strong>Fond of Books and Coffee ☕📚</strong>
