@@ -1,3 +1,24 @@
+<style>
+p {
+  margin: 6px 0;
+}
+h3 {
+  margin: 8px 0;
+}
+img {
+  display: block;
+  margin: 6px auto;
+}
+.logo-container {
+  margin: 6px 0;
+}
+.text-content {
+  margin-top: 6px;
+}
+td p {
+  margin: 4px 0;
+}
+</style>
 <p align="center">
   <img src="mahdi.jpg" alt="Mahdi Ul Bari Banner" width="125%">
 </p>
