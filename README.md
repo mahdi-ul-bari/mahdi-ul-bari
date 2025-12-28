@@ -55,10 +55,7 @@
     <td style="border:none; padding:2px 8px;">█ █ █ █ █ █ ░ ░ ░ ░</td>
   </tr>
 </table>
-
-      </td>
-    </tr>
-  </table>
+</table>
 </div>
 <table align="center" style="border:none; border-collapse:collapse;">
   <tr style="border:none;">
