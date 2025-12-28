@@ -6,11 +6,19 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=45&pause=200&color=007ACC&center=true&vCenter=true&width=500&lines=Researcher;Physiotherapist;R+Programmer;GFX+Enthusiast" alt="Interests" />
   </a>
 </p>
+<div class="text-content">
+    <span class="status-tag">Currently Appointed at</span>
+    <h2>Musculoskeletal Unit</h2>
+    <p class="dept">Department of Physiotherapy</p>
+  <div class="logo-container">
+    <img src="CRP_Logo.jpg" alt="CRP Logo" class="crp-logo">
+  </div>
+<p class="location">
+      <span class="icon">📍</span> 
+      CRP-Savar
 <table align="center">
   <tr>
     <td align="justify" style="max-width: 800px; padding: 20px; border: none;font-family: 'Merriweather';">
-      <strong>Currently appointed at Musculoskeletal Unit, Department of Physiotherapy, CRP-Savar, Dhaka-1343, Bangladesh.</strong>
-      <br>
       Alongside my clinical responsibilities, I am actively engaged as a <strong>researcher</strong>, focusing on innovative approaches and discoveries in <strong>rehabilitation and movement science</strong>. My research interests include <strong>neurology</strong> and <strong>musculoskeletal conditions</strong>. I’m passionate about <strong>bridging healthcare and technology</strong> through <strong>graphic design</strong>, <strong>programming</strong>, and developing <strong>academic tools</strong> that would enhance both <strong>rehabilitation</strong> and <strong>education</strong>. You can find my portfolio <a href="https://mahdi-ul-bari.github.io"> here.</a>
     </td>
   </tr>
