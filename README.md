@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="mahdi.jpg" alt="Mahdi Ul Bari Banner" width="60%">
+  <img src="mahdi.jpg" alt="Mahdi Ul Bari Banner" width="80%">
 </p>
 <p align="center">
   <a href="https://git.io/typing-svg">
