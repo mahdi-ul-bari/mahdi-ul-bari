@@ -7,7 +7,8 @@
   </a>
 </p>
 <div class="text-content">
-    <span class="status-tag">Currently Appointed at <strong></strong>Musculoskeletal Unit, Department of Physiotherapy</strong></span>
+    <h1 align="center">Currently Appointed at <strong>Musculoskeletal Unit, Department of Physiotherapy</strong></h1>
+  <br>
   <div class="logo-container" align="center">
     <img src="CRP_Logo.jpg" alt="CRP Logo" class="crp-logo">
   </div>
