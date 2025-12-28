@@ -29,14 +29,33 @@
     </tr>
     <tr style="border: none;">
       <td align="center" style="width: 50%; border: none; padding: 5px; border-right: 0.5px solid #333; font-family: 'Merriweather', Georgia, serif;">
-        <p>R Language:&nbsp;&nbsp;&nbsp; █ █ █ █ █ █ █ █ ░ ░</p>
-        <p>SPSS &nbsp; █ █ █ █ █ █ █ █ ░ ░</p>
-        <p>Microsoft Excel &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; █ █ █ █ █ █ █ ░ ░ ░</p>
-      </td>
-      <td align="center" style="width: 50%; border: none; padding: 5px; font-family: 'Merriweather', Georgia, serif;">
-        <p>Microsoft Word &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; █ █ █ █ █ █ █ █ █ █</p>
-        <p>PowerPoint &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; █ █ █ █ █ █ █ █ █ ░</p>
-        <p>Adobe Illustrator &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; █ █ █ █ █ █ ░ ░ ░ ░</p>
+        <table style="border:none; border-collapse:collapse; font-family:'Merriweather', Georgia, serif;">
+  <tr>
+    <td style="border:none; padding:2px 8px; white-space:nowrap;">R Language</td>
+    <td style="border:none; padding:2px 8px;">█ █ █ █ █ █ █ █ ░ ░</td>
+  </tr>
+  <tr>
+    <td style="border:none; padding:2px 8px; white-space:nowrap;">SPSS</td>
+    <td style="border:none; padding:2px 8px;">█ █ █ █ █ █ █ █ ░ ░</td>
+  </tr>
+  <tr>
+    <td style="border:none; padding:2px 8px; white-space:nowrap;">Microsoft Excel</td>
+    <td style="border:none; padding:2px 8px;">█ █ █ █ █ █ █ ░ ░ ░</td>
+  </tr>
+  <tr>
+    <td style="border:none; padding:2px 8px; white-space:nowrap;">Microsoft Word</td>
+    <td style="border:none; padding:2px 8px;">█ █ █ █ █ █ █ █ █ █</td>
+  </tr>
+  <tr>
+    <td style="border:none; padding:2px 8px; white-space:nowrap;">PowerPoint</td>
+    <td style="border:none; padding:2px 8px;">█ █ █ █ █ █ █ █ █ ░</td>
+  </tr>
+  <tr>
+    <td style="border:none; padding:2px 8px; white-space:nowrap;">Adobe Illustrator</td>
+    <td style="border:none; padding:2px 8px;">█ █ █ █ █ █ ░ ░ ░ ░</td>
+  </tr>
+</table>
+
       </td>
     </tr>
   </table>
