@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="mahdi.jpg" alt="Mahdi Ul Bari Banner" width="100%">
+</p>
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=45&pause=200&color=007ACC&center=true&vCenter=true&width=500&lines=Researcher;Physiotherapist;R+Programmer;GFX+Enthusiast" alt="Interests" />
   </a>
@@ -38,6 +41,3 @@
     </tr>
   </table>
 </div>
-<p align="center">
-  <img src="mahdi.jpg" alt="Mahdi Ul Bari Banner" width="100%">
-</p>
