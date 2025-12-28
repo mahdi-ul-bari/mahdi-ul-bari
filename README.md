@@ -11,8 +11,13 @@
   <br>
   <div class="logo-container" align="center">
     <img src="CRP_Logo.jpg" alt="CRP Logo" class="crp-logo">
+   <style>
+.crp-logo {
+    height: 50%;
+}
+</style>
   </div>
-      <h2 align="center">📍CRP-Savar <a href="[https://mahdi-ul-bari.github.io](https://www.google.com/maps/place/Centre+for+the+Rehabilitation+of+the+Paralysed+(CRP)+-+Savar/@23.8463688,90.2525745,15z/data=!4m10!1m2!2m1!1sCRP!3m6!1s0x3755ea2a3e7bab6f:0x36436d3d6d3a7055!8m2!3d23.8566247!4d90.2658723!15sCgNDUlBaBSIDY3JwkgEIaG9zcGl0YWyaAURDaTlEUVVsUlFVTnZaRU5vZEhsalJqbHZUMjEwVDJSR1FtdFNTRVpKVjBkSk5XUnJNVzlTTTFsMFRXMWtTR1ZGUlJBQuABAPoBBAhTEEA!16s%2Fg%2F11g719sr50?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoKLDEwMDc5MjA3MUgBUAM%3D)"> View in Maps.</a></h2> 
+      <h2 align="center">📍CRP-Savar (Head Office) </h2> 
 <table align="center">
   <tr>
     <td align="justify" style="max-width: 800px; padding: 20px; border: none;font-family: 'Merriweather';">
