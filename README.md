@@ -41,3 +41,13 @@
     </tr>
   </table>
 </div>
+<table align="center" style="border:none; border-collapse:collapse;">
+  <tr>
+    <td style="border:none; padding:4px;">
+      <img src="book_reading.gif" alt="Book Reading" width="70">
+    </td>
+    <td style="border:none; padding:4px; vertical-align:middle;">
+      <strong>Fond of Books and Coffee ☕📚</strong>
+    </td>
+  </tr>
+</table>
