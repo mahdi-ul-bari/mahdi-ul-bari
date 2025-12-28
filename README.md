@@ -10,7 +10,7 @@
     <h2 align="center">Currently Appointed at <strong>Musculoskeletal Unit, Department of Physiotherapy</strong></h2>
   <br>
   <div class="logo-container" align="center">
-    <img src="CRP_Logo.jpg" alt="CRP Logo" class="crp-logo" style="height: 50%;">
+    <img src="CRP_Logo.jpg" alt="CRP Logo" class="crp-logo" style="height: 30%; width: 30%;">
   </div>
       <h2 align="center">📍CRP-Savar (Head Office) </h2> 
 <table align="center">
