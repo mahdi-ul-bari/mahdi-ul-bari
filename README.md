@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="mahdi.jpg" alt="Mahdi Ul Bari Banner" width="100%">
+  <img src="mahdi.jpg" alt="Mahdi Ul Bari Banner" width="60%">
 </p>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=25&pause=200&color=007ACC&center=true&vCenter=true&width=300&lines=Researcher;Physiotherapist;R+Programmer;GFX+Enthusiast" alt="Interests" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&size=445&pause=200&color=007ACC&center=true&vCenter=true&width=300&lines=Researcher;Physiotherapist;R+Programmer;GFX+Enthusiast" alt="Interests" />
   </a>
 </p>
 <div class="text-content">
