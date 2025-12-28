@@ -9,7 +9,7 @@
   <div class="logo-container" align="center">
     <img src="CRP_Logo.jpg" alt="CRP Logo" class="crp-logo" style="height: 30%; width: 30%;">
   </div>
-      <h3 align="center">📍CRP-Savar (Head Office) </h3> 
+      <h3 align="center">📍Head office, Savar, Dhaka-1343, Bangladesh </h3> 
 <table align="center">
   <tr>
     <td align="justify" style="max-width: 800px; padding: 20px; border: none;font-family: 'Merriweather';">
