@@ -70,7 +70,7 @@
 <table align="center" style="border:none; border-collapse:collapse;">
   <tr style="border:none;">
     <td style="border:none; padding-left:4px; vertical-align:middle;">
-      <strong>A loving husband and proud father of a baby girl "Mahreen"</strong>
+      <strong>A loving husband and proud father <<br>of a baby girl "Mahreen"</strong>
     </td>
     <td style="border:none; padding:2px;">
       <img src="Mahreen.jpg" alt="Mahreen" width="428">
