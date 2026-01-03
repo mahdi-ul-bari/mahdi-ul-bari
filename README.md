@@ -67,4 +67,14 @@
     </td>
   </tr>
 </table>
+<table align="center" style="border:none; border-collapse:collapse;">
+  <tr style="border:none;">
+    <td style="border:none; padding-left:4px; vertical-align:middle;">
+      <strong>A Loving Husband and Proud Father of a baby girl "Mahreen"</strong>
+    </td>
+    <td style="border:none; padding:2px;">
+      <img src="Mahreen.jpg" alt="Mahreen" width="428">
+    </td>
+  </tr>
+</table>
 
